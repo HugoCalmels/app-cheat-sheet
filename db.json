@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "content": "lorem200212313"
+    },
+    {
+      "id": 2,
+      "title": "hello world",
+      "author": "hellocode",
+      "content": "lorZhEg0ZZGZEGhtrhZE13"
+    },
+    {
+      "id": 3,
+      "title": "super-title",
+      "author": "monstercode",
+      "content": "zrgzEZHZEHZEGZEGZEGZEGrgreEHERHERH3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "pseudo": "user31",
+      "likes": 21,
+      "id": 1
+    }
+  ]
+}
